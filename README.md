@@ -1,4 +1,12 @@
+![Wireshark Lab Banner](./images/wireshark-banner.png)
+
 # 🕵️ Day #6: Introduction to Wireshark – Packet Analysis for SOC Analysts
+
+![Wireshark](https://img.shields.io/badge/tool-Wireshark-blue)
+![SOC Analyst Lab](https://img.shields.io/badge/lab-SOC_Analyst_Training-brightgreen)
+![Status](https://img.shields.io/badge/status-Completed-success)
+![GitHub repo size](https://img.shields.io/github/repo-size/BecomingCyber/wireshark-day6-lab)
+![Last Commit](https://img.shields.io/github/last-commit/BecomingCyber/wireshark-day6-lab)
 
 ## 🎯 Objective
 
